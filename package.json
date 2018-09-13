@@ -1,0 +1,26 @@
+{
+  "name": "subscribe-bot",
+  "version": "1.0.0",
+  "description": "A bot that shows how to generate a simple subscription via Webex Teams ",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "axios": "^0.18.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webex/subscribe-bot.git"
+  },
+  "author": "Timothy S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webex/subscribe-bot/issues"
+  },
+  "homepage": "https://github.com/webex/subscribe-bot#readme"
+}
